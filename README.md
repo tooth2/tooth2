@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 * [Path Planning](https://github.com/tooth2/Path_Planning) 
 * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
 
-
 ### Computer-Vision Project 
 * [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
 * [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) 
@@ -45,7 +44,8 @@ Here are some ideas to get you started:
 ### Natural-Lanuage-Processing Project 
 * [Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)
 * [Google Actions](https://github.com/tooth2/GoogleActions)
-
+* [Text Generation](https://github.com/tooth2/TV-Script-Generation)
+* [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
 
 ### Course Examples 
 * iOS: [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
