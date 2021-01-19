@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 |* [Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[Text Generation](https://github.com/tooth2/TV-Script-Generation)|[Restful WebService](https://github.com/tooth2/BeaconLocationService)|
 |* [PID Controller](https://github.com/tooth2/PID_Controller)|[Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)|[RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)|
 | [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)|[Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning)|[NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)|
-|* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)|[Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)|
-| [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)|[Google Actions](https://github.com/tooth2/GoogleActions)|
-|* [Path Planning](https://github.com/tooth2/Path_Planning) |[Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)|Android On-Device ML |
-| [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) | iOS On-Device ML |
+|* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)|
+| [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)|Google Actions|
+|* [Path Planning](https://github.com/tooth2/Path_Planning) |[Autonous Driving by Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)| Alexa Skill|
+| [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |On-Device ML|
 
 <!--
 
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
 * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
 * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
-* [Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)
-* [Google Actions](https://github.com/tooth2/GoogleActions)
+* Alexa Skill <!--(https://github.com/tooth2/AlexaSkill-Survey)-->
+* Google Actions<!--(https://github.com/tooth2/GoogleActions)-->
 
 ### Teaching Course Examples 
 * iOS: [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
   * [Android iDrift App](https://github.com/tooth2/iDrift_Android)
   * [OpenXC Integration](https://github.com/tooth2/TestOpenXC)
-  * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
+  * [Sleep Daemon]<!--(https://github.com/tooth2/SleepDaemon)-->
 * WebService/IoT: [Beacon Location Service](https://github.com/tooth2/BeaconLocationService) 
 * RDBMS: [RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)
 * NoSQL: [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)
