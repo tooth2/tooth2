@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 
 
 ### Course Examples 
-* [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
+* iOS: [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
 * Android
   * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
   * [Android iDrift App](https://github.com/tooth2/iDrift_Android)
-  * [OpenVC Integration](https://github.com/tooth2/TestOpenXC)
+  * [OpenXC Integration](https://github.com/tooth2/TestOpenXC)
   * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
-* [Restfull Web Service](https://github.com/tooth2/BeaconLocationService) 
-* [RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)
-* [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)
+* WebService/IoT: [Beacon Location Service](https://github.com/tooth2/BeaconLocationService) 
+* RDBMS: [RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)
+* NoSQL: [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)
 
 
 
