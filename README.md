@@ -14,20 +14,22 @@ Here are some ideas to get you started:
 🔭 I have worked on Computer Vision, Deep learning (CNN, RNN/LSTM, GAN, etc) and Natural Language Processing with Python, C++, and JAVA. 
 🌱 I’m currently working on Autonomous car driving - Lidar sensor fusion, Point cloud, Localization , Path planning and  so on.
 
-### Self-driving-Car Project 
-* [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
-* [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) 
-* [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification) 
-* [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
-* [PID Controller](https://github.com/tooth2/PID_Controller)
-* [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)
-* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter) 
-* [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)
-* [Path Planning](https://github.com/tooth2/Path_Planning) 
-* [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
+|Self-driving-Car Project | Deep-Learning Project | 
+|---| ---| 
+| [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)| [Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction) |
+| [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) |[Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)|
+|* [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification) | [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |
+|* [Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[Text Generation](https://github.com/tooth2/TV-Script-Generation)|
+|* [PID Controller](https://github.com/tooth2/PID_Controller)|[Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)|
+|* [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)|[Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) |
+|* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter) | [Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)|
+|* [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)| [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)|
+|* [Path Planning](https://github.com/tooth2/Path_Planning) | [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)|
+|* [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
+|
 
 ### Computer-Vision Project 
-* [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
+ * [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
 * [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) 
 * [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
 * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection)
