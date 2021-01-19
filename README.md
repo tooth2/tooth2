@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I have worked on Computer Vision, Deep learning (CNN, RNN/LSTM, GAN, etc) and Natural Language Processing with Python, C++, and JAVA. 
-🌱 I’m currently learning Autonomous car driving - Lidar sensor fusion, Point cloud, Localization , Path planning and  so on.
+🌱 I’m currently working on Autonomous car driving - Lidar sensor fusion, Point cloud, Localization , Path planning and  so on.
 
 ### Self-driving-Car Project 
 * [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
