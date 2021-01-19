@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 
 |Self-Driving-Car Project | ComputerVision/NLP/Deep Learning Project | Teaching Course Example|
 |---| ---| -- |
-| [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)| [Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction) | [iOS App](https://github.com/tooth2/iDrift_iOS)|
-|* [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) |[Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)| [Android App](https://github.com/tooth2/iDrift_Android) |
-|* [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification) | [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |  [API Integration](https://github.com/tooth2/TestOpenXC) |
-|* [Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[Text Generation](https://github.com/tooth2/TV-Script-Generation)|  [Restful WebService](https://github.com/tooth2/BeaconLocationService) |
-
-|* [PID Controller](https://github.com/tooth2/PID_Controller)|[Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)| [RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)|
-| [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)|[Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) | [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)|
-|* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter) | [Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| [Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)|
-| [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)| [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)| [Google Actions](https://github.com/tooth2/GoogleActions) |
-|* [Path Planning](https://github.com/tooth2/Path_Planning) | [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)| Android On-Device ML |
+|[Lane Detection](https://github.com/tooth2/Lane_Line_Detection)|[Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)| [iOS App](https://github.com/tooth2/iDrift_iOS)|
+|* [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)|[Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)| [Android App](https://github.com/tooth2/iDrift_Android)|
+|* [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)|[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |  [API Integration](https://github.com/tooth2/TestOpenXC)|
+|* [Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[Text Generation](https://github.com/tooth2/TV-Script-Generation)|[Restful WebService](https://github.com/tooth2/BeaconLocationService)|
+|* [PID Controller](https://github.com/tooth2/PID_Controller)|[Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)|[RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)|
+| [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)|[Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning)|[NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)|
+|* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)|[Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)|
+| [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)|[Google Actions](https://github.com/tooth2/GoogleActions)|
+|* [Path Planning](https://github.com/tooth2/Path_Planning) |[Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)|Android On-Device ML |
 | [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) | iOS On-Device ML |
 
 <!--
