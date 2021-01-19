@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
 * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
 * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
-* Alexa Skill <!--(https://github.com/tooth2/AlexaSkill-Survey)-->
-* Google Actions<!--(https://github.com/tooth2/GoogleActions)-->
+* [Alexa Skill] (https://github.com/tooth2/AlexaSkill-Survey)
+* [Google Actions](https://github.com/tooth2/GoogleActions)
 
 ### Teaching Course Examples 
 * iOS: [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
   * [Android iDrift App](https://github.com/tooth2/iDrift_Android)
   * [OpenXC Integration](https://github.com/tooth2/TestOpenXC)
-  * [Sleep Daemon]<!--(https://github.com/tooth2/SleepDaemon)-->
+  * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
 * WebService/IoT: [Beacon Location Service](https://github.com/tooth2/BeaconLocationService) 
 * RDBMS: [RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)
 * NoSQL: [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)
