@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 * [Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)
 * [Google Actions](https://github.com/tooth2/GoogleActions)
 
-### Course Examples 
+### Teaching Course Examples 
 * iOS: [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
 * Android
   * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
