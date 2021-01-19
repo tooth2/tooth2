@@ -11,11 +11,52 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-### Computer Vision Project 
+### Self-driving-Car Project 
+* [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
+* [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) 
+* [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification) 
+* [Autonous Driving by human driver behavior](https://github.com/tooth2/Autonomous_Driving)
+* [PID Controller](https://github.com/tooth2/PID_Controller)
+* [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)
+* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter) 
+* [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)
+* [Path Planning](https://github.com/tooth2/Path_Planning) 
+* [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
 
-### Deep Learning Project 
 
-### Natural Lanuage Processing Project 
+### Computer-Vision Project 
+* [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
+* [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) 
+* [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
+* [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection)
+* [Automatic Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
 
-### Autonomous Car Project 
+### Deep-Learning Project
+* [Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)
+* [Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)
+* [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) 
+* [Text Generation](https://github.com/tooth2/TV-Script-Generation)
+* [Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)
+* [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
+* [Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)
+* [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
+* [Autonous Driving by human driver behavior](https://github.com/tooth2/Autonomous_Driving)
+
+### Natural-Lanuage-Processing Project 
+* [Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)
+* [Google Actions](https://github.com/tooth2/GoogleActions)
+
+
+### Course Examples 
+* [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
+* Android
+  * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
+  * [Android iDrift App](https://github.com/tooth2/iDrift_Android)
+  * [OpenVC Integration](https://github.com/tooth2/TestOpenXC)
+  * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
+* [Restfull Web Service](https://github.com/tooth2/BeaconLocationService) 
+* [RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)
+* [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)
+
+
 
