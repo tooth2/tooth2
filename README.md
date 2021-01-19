@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 * [Autonous Driving by human driver behavior](https://github.com/tooth2/Autonomous_Driving)
 
 ### Natural-Lanuage-Processing Project 
-* [Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)
-* [Google Actions](https://github.com/tooth2/GoogleActions)
 * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
 * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
+* [Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)
+* [Google Actions](https://github.com/tooth2/GoogleActions)
 
 ### Course Examples 
 * iOS: [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
