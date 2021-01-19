@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 |* [Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[Text Generation](https://github.com/tooth2/TV-Script-Generation)|[Restful WebService](https://github.com/tooth2/BeaconLocationService)|
 |* [PID Controller](https://github.com/tooth2/PID_Controller)|[Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)|[RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)|
 | [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)|[Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning)|[NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)|
-|* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)|
+|* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| Alexa Skills|
 | [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)|Google Actions|
-|* [Path Planning](https://github.com/tooth2/Path_Planning) |[Autonous Driving by Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)| Alexa Skill|
-| [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |On-Device ML|
+|* [Path Planning](https://github.com/tooth2/Path_Planning) |[Autonous Driving by Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|NLP Kit/Tutorial|
+| [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |OpenCV Kit/Tutorial|
 
 <!--
 
