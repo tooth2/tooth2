@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World
 
 <!--
 **tooth2/tooth2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,11 +11,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+🔭 I have worked on Computer Vision, Deep learning (CNN, RNN/LSTM, GAN, etc) and Natural Language Processing with Python, C++, and JAVA. 
+🌱 I’m currently learning Autonomous car driving - Lidar sensor fusion, Point cloud, Localization , Path planning and  so on.
+
 ### Self-driving-Car Project 
 * [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
 * [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) 
 * [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification) 
-* [Autonous Driving by human driver behavior](https://github.com/tooth2/Autonomous_Driving)
+* [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
 * [PID Controller](https://github.com/tooth2/PID_Controller)
 * [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)
 * [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter) 
@@ -28,7 +31,7 @@ Here are some ideas to get you started:
 * [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) 
 * [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
 * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection)
-* [Automatic Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
+* [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
 
 ### Deep-Learning Project
 * [Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)
@@ -39,9 +42,11 @@ Here are some ideas to get you started:
 * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
 * [Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)
 * [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
-* [Autonous Driving by human driver behavior](https://github.com/tooth2/Autonomous_Driving)
+* [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
+* [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
 
 ### Natural-Lanuage-Processing Project 
+* [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
 * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
 * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
 * [Alex Skill](https://github.com/tooth2/AlexaSkill-Survey)
