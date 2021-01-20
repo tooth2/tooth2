@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 |* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| Alexa Skills|
 | [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)|Google Actions|
 |* [Path Planning](https://github.com/tooth2/Path_Planning) |[Autonous Driving by Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|NLP Kit/Tutorial|
-| [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |OpenCV Kit/Tutorial|
+| [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |[AWS SageMaker Deployment](https://github.com/tooth2/sagemaker-deployment)|
 
 <!--
 
