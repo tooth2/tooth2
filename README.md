@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 🔭 I have worked on Computer Vision, Deep learning (CNN, RNN/LSTM, GAN, etc) and Natural Language Processing with Python, C++, and JAVA. 
 🌱 I’m currently working on Autonomous car driving - Lidar sensor fusion, Point cloud, Localization , Path planning and  so on.
 
-|Self-Driving-Car Project | ComputerVision/NLP/Deep Learning Project | Teaching Course Example|
+|Self-Driving-Car Projects | ComputerVision/NLP/DeepLearning Projects | Teaching Course Examples|
 |---| ---| -- |
 |[Lane Detection](https://github.com/tooth2/Lane_Line_Detection)|[Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)| [iOS App](https://github.com/tooth2/iDrift_iOS)|
 |* [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)|[Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)| [Android App](https://github.com/tooth2/iDrift_Android)|
