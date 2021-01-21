@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 |* [Path Planning](https://github.com/tooth2/Path_Planning) |[Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[Vehicle Model](https://github.com/tooth2/VehicleModel)| OpenCV Kit/Tutorial|
 | [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |[ML model to AWS SageMaker Deployment](https://github.com/tooth2/sagemaker-deployment)|
 |[Vehicle Model](https://github.com/tooth2/VehicleModel)| [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)|NLP/PyTorch Kit/Tutorial|
-|Autonomous Driving-Full cycle development|Landmark Detection & Tracking|[Vehicle Model](https://github.com/tooth2/VehicleModel)|
+|Autonomous Driving-Full cycle|Landmark Detection & Tracking|[Vehicle Model](https://github.com/tooth2/VehicleModel)|
 
 <!--
 
