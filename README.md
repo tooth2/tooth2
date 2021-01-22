@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 |* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| Alexa Skills|
 | [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Traffic Sign Detection & Classification](https://github.com/tooth2/Traffic_Sign_Classification)|Google Actions|
 |* [Planning - Route Planning](https://github.com/tooth2/Path_Planning) |[Planning - Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|NLP/PyTorch Kit/Tutorial|
-| [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |[ML model to AWS SageMaker Deployment](https://github.com/tooth2/sagemaker-deployment)|
+|[Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |[ML model to AWS SageMaker Deployment](https://github.com/tooth2/sagemaker-deployment)|
 |[Vehicle Model](https://github.com/tooth2/VehicleModel)| [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)|OpenCV Kit/Tutorial|
 |[Landmark Detection(SLAM)](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM)|[Landmark Detection & Tracking](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM)|[Vehicle Model](https://github.com/tooth2/VehicleModel)|
 
