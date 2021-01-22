@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 | [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)|[Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning)|[NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)|
 |* [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| Alexa Skills|
 | [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Traffic Sign Detection & Classification](https://github.com/tooth2/Traffic_Sign_Classification)|Google Actions|
-|* [Planning - Routh Planning](https://github.com/tooth2/Path_Planning) |[Planning - Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|NLP/PyTorch Kit/Tutorial|
+|* [Planning - Route Planning](https://github.com/tooth2/Path_Planning) |[Planning - Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|NLP/PyTorch Kit/Tutorial|
 | [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)| [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |[ML model to AWS SageMaker Deployment](https://github.com/tooth2/sagemaker-deployment)|
 |[Vehicle Model](https://github.com/tooth2/VehicleModel)| [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)|OpenCV Kit/Tutorial|
 |Autonomous Driving-Full cycle|Landmark Detection & Tracking|[Vehicle Model](https://github.com/tooth2/VehicleModel)|
