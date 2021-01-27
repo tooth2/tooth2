@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Vision, Deep learning (CNN, RNN/LSTM, GAN, etc) and Natural Language Processing with Python, C++, and JAVA.
-- 🌱 I’m currently learning Autonomous car driving - Lidar sensor fusion, Point cloud, Localization , Path planning and  so on
+- 🌱 I’m currently learning Autonomous car driving - Lidar sensor fusion, Trajectory using Point cloud, Localization, Path planning and so on
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
 🔭 I have worked on Computer Vision, Deep learning (CNN, RNN/LSTM, GAN, etc) and Natural Language Processing with Python, C++, and JAVA. 
-🌱 I’m currently working on Autonomous car driving - Lidar sensor fusion, Point cloud, Localization , Path planning and  so on.
+🌱 I’m currently working on Autonomous car driving - Vehicle/road lane detection, Lidar/Radar sensor fusion, Localization , Path planning and control so on.
 
 |Autonomous Vehicle Projects |CV/NLP/DeepLearning Projects|Teaching Course Examples|
 |---| ---| -- |
