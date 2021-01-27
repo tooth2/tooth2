@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | [ **Localization** Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |[Google Actions](https://github.com/tooth2/GoogleActions)|
 | [**Localization** Landmark Detection (SLAM)](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM) |[Planning - Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[On-Device AI/Speech Recognition](https://github.com/tooth2/NLP-Android)|
 |[Vehicle Model](https://github.com/tooth2/VehicleModel)|[Traffic Sign Detection & Classification](https://github.com/tooth2/Traffic_Sign_Classification) |[On-Device AI/Computer Vision](https://github.com/tooth2/OpenCV-Android)|
-|[ **Planning** Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)| [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)|[ML model Deploy to AWS SageMaker](https://github.com/tooth2/sagemaker-deployment)|
+|[ **Planning** Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)| [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)|[Machine Learning on AWS SageMaker](https://github.com/tooth2/sagemaker-deployment)|
 |[ **Planning** Route Planning](https://github.com/tooth2/Path_Planning)|[Landmark Detection & Tracking(*SLAM*)](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM)|[Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)|
 |[ **Control** PID Controller](https://github.com/tooth2/PID_Controller)|[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)|[Vehicle Model](https://github.com/tooth2/VehicleModel)|
 
