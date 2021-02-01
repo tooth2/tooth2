@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-🔭 I have worked on Computer Vision, Deep learning (CNN, Le-Net5, VGG16/VGG19, NVIDIA archiecture, CNN with RNN, RNN/LSTM, GAN, DCGAN etc) and Natural Language Processing with Python, C++, and JAVA. 
+🔭 I have worked on Computer Vision, Deep learning and Natural Language Processing application development with Python, C++, and JAVA. 
 🌱 I’m currently working on Autonomous car driving - Vehicle/road lane detection, Lidar/Radar sensor fusion, Localization , Path planning and control so on.
 
 |Autonomous Vehicle Projects |CV/NLP/DeepLearning Projects|Teaching Course Examples|
