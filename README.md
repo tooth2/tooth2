@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 |[ **Planning** Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)| [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)|[Machine Learning on AWS SageMaker](https://github.com/tooth2/sagemaker-deployment)|
 |[ **Planning** Route Planning](https://github.com/tooth2/Path_Planning)|[Landmark Detection (*SLAM*)](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM)|[Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)|
 |[ **Control** PID Controller](https://github.com/tooth2/PID_Controller)|[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)|[Vehicle Model](https://github.com/tooth2/VehicleModel)|
-|[ **SensorFusion** Radar Detection](https://github.com/tooth2/2D-CFAR)|[NotMNIST]|[Sentiment Analysis]|
+|[ **SensorFusion** Radar Detection](https://github.com/tooth2/2D-CFAR)|[FashionMNIST]|[PyTorch Tutorial]|
+|[ **Perception** 2D Camera Feature Tracking](https://github.com/tooth2/2D-Collision-Prevention)|[FashionMNIST]|[OpenCV Python Tutorial]|
+|[ **SensorFusion** 3D Camera/Lidar Collision Detection]|[YOLO Detection]|[OpenCV C++ Tutorial]|
 
 
 
