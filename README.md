@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 |[ **Control** PID Controller](https://github.com/tooth2/PID_Controller)|[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)|[Vehicle Model](https://github.com/tooth2/VehicleModel)|
 |[ **SensorFusion** 2D Lidar/Camera Vehicle Detection](https://github.com/tooth2/2D-Sensor-Fusion)|[NotMNIST]|[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
 |[ **Perception** 2D Camera Vehicle Tracking](https://github.com/tooth2/2D-Collision-Prevention)|[FashionMNIST]|[OpenCV Python Tutorial]|
-|[ **SensorFusion** 3D Camera/Lidar Collision Detection(https://github.com/tooth2/3D-Sensor-Fusion)]|[YOLOv3 Vehicle Detection]|[OpenCV C++ Tutorial]|
+|[ **SensorFusion** 3D Camera/Lidar Collision Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[YOLOv3 Vehicle Detection]|[OpenCV C++ Tutorial]|
 
 
 
