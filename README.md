@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 |[ **Planning** Route Planning](https://github.com/tooth2/Path_Planning)|[Landmark Detection (*SLAM*)](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM)|[Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)|
 |[ **Control** PID Controller](https://github.com/tooth2/PID_Controller)|[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)|[Vehicle Model](https://github.com/tooth2/VehicleModel)|
 |[ **SensorFusion** 2D Lidar/Camera Vehicle Detection](https://github.com/tooth2/2D-Sensor-Fusion)|[3D YOLO/DNN Object Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
-|[ **Perception** 2D Camera Vehicle Tracking](https://github.com/tooth2/2D-Collision-Prevention)|[YOLOv3 Object Detection I](https://github.com/tooth2/YOLOv3-Pytorch)|[OpenCV Python Tutorial](https://github.com/tooth2/OpenCV-Object-Detection)|
+|[ **Perception** 2D Camera Vehicle Tracking](https://github.com/tooth2/2D-Collision-Prevention)|[YOLOv3 Object Detection I](https://github.com/tooth2/YOLOv3-Pytorch)|[OpenCV/2DFeatures Tutorial](https://github.com/tooth2/OpenCV-Object-Detection)|
 |[ **SensorFusion** 3D Camera/Lidar Collision Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[YOLOv3 Object Detection II](https://github.com/tooth2/YOLOv3-Object-Detection)|[Vehicle Model-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
 
 
