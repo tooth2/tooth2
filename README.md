@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 |[**Perception** Advanced Road Lane **Detection** ](https://github.com/tooth2/Road_Lane_Detection)|[Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)| [Android App](https://github.com/tooth2/iDrift_Android)|
 |[**Perception** Traffic sign **Detection** & Classification](https://github.com/tooth2/Traffic_Sign_Classification)|[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |[OpenXC API Integration](https://github.com/tooth2/TestOpenXC)|
 |[**Perception** Vehicle **Detection** (YOLO)](https://github.com/tooth2/Vehicle_Detection) |[Text Generation](https://github.com/tooth2/TV-Script-Generation)|[Restful WebService API](https://github.com/tooth2/BeaconLocationService)|
-| [**SensorFusion** Lidar Obstacle **Detection**](https://github.com/tooth2/Lidar-Obstacle-Detection)|[Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)|[RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)|
+| [**Perception** Traffic Light Classification](https://github.com/tooth2/Traffic-Light-Classification)|[Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)|[RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)|
 | [ **SensorFusion** Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)|[Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning)|[NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)|
 | [ **SensorFusion** Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| [Alexa Skills](https://github.com/tooth2/Alexa-Skill)|
 | [ **Localization** Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |[Google Actions](https://github.com/tooth2/GoogleActions)|
@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 |[ **SensorFusion** 2D Lidar/Camera Vehicle Detection](https://github.com/tooth2/2D-Sensor-Fusion)|[3D YOLO/DNN Object Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
 |[ **Perception** 2D Camera Vehicle Tracking](https://github.com/tooth2/2D-Collision-Prevention)|[YOLOv3 Object Detection I](https://github.com/tooth2/YOLOv3-Pytorch)|[OpenCV/2DFeatures Tutorial](https://github.com/tooth2/OpenCV-Object-Detection)|
 |[ **SensorFusion** 3D Camera/Lidar Collision Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[YOLOv3 Object Detection II](https://github.com/tooth2/YOLOv3-Object-Detection)|[Vehicle Model-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
-|[DCGAN Street Number recognition](https://github.com/tooth2/House-Number-Recognition)|[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)|[1D Localization](https://github.com/tooth2/1D-Localization)|
-||[Handwritten Digits Geneeration(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/)|[Kalman-Filter](https://github.com/tooth2/Kalman-Filter)|
-
+|[**SensorFusion** Lidar Obstacle **Detection**](https://github.com/tooth2/Lidar-Obstacle-Detection)|[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)|[1D Localization](https://github.com/tooth2/1D-Localization)|
+|[DCGAN Street Number recognition](https://github.com/tooth2/House-Number-Recognition)|[Handwritten Digits Geneeration(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/)|[Kalman-Filter](https://github.com/tooth2/Kalman-Filter)|
 
 
 <!--
