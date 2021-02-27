@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     - Detection
         - [Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)
         - [Traffic Light Detection & Classification](https://github.com/tooth2/Traffic-Light-Classification)
-        - [Traffic Sign Detection & Classification](https://github.com/tooth2/Traffic_Sign_Classification))
+        - [Traffic Sign Detection & Classification](https://github.com/tooth2/Traffic_Sign_Classification)
         - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
     - Localization
         - [Lidar/GPS+MAP Localization](https://github.com/tooth2/Robot_Particle_Fillter)
@@ -51,39 +51,34 @@ Here are some ideas to get you started:
     - [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)
     - [Trajectory Planning](https://github.com/tooth2/Path_Planning)
 
-## Computer-Vision Project 
-* [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
-* [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) 
-* [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
-* [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection)
-* [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
-
-## Deep-Learning Project
-* [Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)
-* [Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)
-* [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) 
-* [Text Generation](https://github.com/tooth2/TV-Script-Generation)
-* [Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)
-* [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
-* [Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)
-* [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
-* [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
-* [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
-
-## Natural-Lanuage-Processing Project 
-* [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
-* [Text Generation](https://github.com/tooth2/TV-Script-Generation)
-* [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
-* [Alexa Skill](https://github.com/tooth2/Alexa-Skill)
-* [Google Actions](https://github.com/tooth2/GoogleActions)
+## Deep Learning/AI 
+- Deep-Learning Project
+    * [Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)
+    * [Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)
+    * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) 
+    * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
+    * [Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)
+    * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
+    * [Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)
+    * [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
+    * [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
+    * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
+- Natural-Lanuage-Processing Project 
+    * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
+    * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
+    * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
+    * [Alexa Skill](https://github.com/tooth2/Alexa-Skill)
+    * [Google Actions](https://github.com/tooth2/GoogleActions)
 
 ## Teaching Course Examples 
-* iOS: [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
-* Android
-  * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
-  * [Android iDrift App](https://github.com/tooth2/iDrift_Android)
-  * [OpenXC Integration](https://github.com/tooth2/TestOpenXC)
-  * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
+* Mobile App Development 
+    * iOS
+        * [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
+    * Android
+        * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
+        * [Android iDrift App](https://github.com/tooth2/iDrift_Android)
+        * [OpenXC Integration](https://github.com/tooth2/TestOpenXC)
+        * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
 * WebService/IoT: [Beacon Location Service](https://github.com/tooth2/BeaconLocationService) 
 * RDBMS: [RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)
 * NoSQL: [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)
