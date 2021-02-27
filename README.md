@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 |[ **SensorFusion** 3D Camera/Lidar Obstacle **Detection**](https://github.com/tooth2/3D-Sensor-Fusion)|[YOLOv3 Object Detection II](https://github.com/tooth2/YOLOv3-Object-Detection)|[Vehicle Model-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
 |[**SensorFusion** Lidar Obstacle **Detection**](https://github.com/tooth2/Lidar-Obstacle-Detection)|[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)|[OpenCV/2DFeatures Tutorial](https://github.com/tooth2/OpenCV-Object-Detection)|
 |[DCGAN Street Number recognition](https://github.com/tooth2/House-Number-Recognition)|[Handwritten Digits Generation(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/)|[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
+||[DCGAN Street Number recognition](https://github.com/tooth2/House-Number-Recognition)||
 
 
 ## Autonomous Vehicle 
