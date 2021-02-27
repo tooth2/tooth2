@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 ## Perception 
 - Detection
-    - [Lane Detection](https://github.com/tooth2/Road_Lane_Detection)
+    - [Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)
     - [Traffic Light Detection & Classification](https://github.com/tooth2/Traffic-Light-Classification)
     - [Traffic Sign Detection & Classification](https://github.com/tooth2/Traffic_Sign_Classification))
     - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
 - Localization
-    - [Lidar/GPS+MAP Localization](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM)
+    - [Lidar/GPS+MAP Localization](https://github.com/tooth2/Robot_Particle_Fillter)
 
 ## Planning 
 - [Route Planning](https://github.com/tooth2/Path_Planning)
