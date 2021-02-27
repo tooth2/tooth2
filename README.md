@@ -47,20 +47,18 @@ Here are some ideas to get you started:
 
 ## Planning 
 - [Route Planning](https://github.com/tooth2/Path_Planning)
-- Prediction
+- [Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)
 - [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)
-- [Trajectory Planning](https://github.com/tooth2/Robot_Particle_Fillter)
+- [Trajectory Planning](https://github.com/tooth2/Path_Planning)
 
-<!--
-
- Computer-Vision Project 
+## Computer-Vision Project 
 * [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
 * [Advanced Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection) 
 * [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
 * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection)
 * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
 
- Deep-Learning Project
+## Deep-Learning Project
 * [Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)
 * [Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)
 * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) 
@@ -72,14 +70,14 @@ Here are some ideas to get you started:
 * [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
 * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
 
- Natural-Lanuage-Processing Project 
+## Natural-Lanuage-Processing Project 
 * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
 * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
 * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
 * [Alexa Skill] (https://github.com/tooth2/AlexaSkill-Survey)
 * [Google Actions](https://github.com/tooth2/GoogleActions)
 
-### Teaching Course Examples 
+## Teaching Course Examples 
 * iOS: [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
 * Android
   * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
@@ -90,4 +88,3 @@ Here are some ideas to get you started:
 * RDBMS: [RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)
 * NoSQL: [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)
 
---> 
