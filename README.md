@@ -36,20 +36,20 @@ Here are some ideas to get you started:
 |[DCGAN Street Number recognition](https://github.com/tooth2/House-Number-Recognition)|[Handwritten Digits Generation(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/)|[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
 
 
-## Perception 
-- Detection
-    - [Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)
-    - [Traffic Light Detection & Classification](https://github.com/tooth2/Traffic-Light-Classification)
-    - [Traffic Sign Detection & Classification](https://github.com/tooth2/Traffic_Sign_Classification))
-    - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
-- Localization
-    - [Lidar/GPS+MAP Localization](https://github.com/tooth2/Robot_Particle_Fillter)
-
-## Planning 
-- [Route Planning](https://github.com/tooth2/Path_Planning)
-- [Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)
-- [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)
-- [Trajectory Planning](https://github.com/tooth2/Path_Planning)
+## Autonomous Vehicle 
+- Perception 
+    - Detection
+        - [Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)
+        - [Traffic Light Detection & Classification](https://github.com/tooth2/Traffic-Light-Classification)
+        - [Traffic Sign Detection & Classification](https://github.com/tooth2/Traffic_Sign_Classification))
+        - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
+    - Localization
+        - [Lidar/GPS+MAP Localization](https://github.com/tooth2/Robot_Particle_Fillter)
+- Planning 
+    - [Route Planning](https://github.com/tooth2/Path_Planning)
+    - [Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)
+    - [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)
+    - [Trajectory Planning](https://github.com/tooth2/Path_Planning)
 
 ## Computer-Vision Project 
 * [Lane Detection](https://github.com/tooth2/Lane_Line_Detection)
