@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
 * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
 * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
-* [Alexa Skill] (https://github.com/tooth2/AlexaSkill-Survey)
+* [Alexa Skill](https://github.com/tooth2/Alexa-Skill)
 * [Google Actions](https://github.com/tooth2/GoogleActions)
 
 ## Teaching Course Examples 
