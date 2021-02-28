@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 |[**Perception** Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)|[Face Expression Recognition](https://github.com/tooth2/Facial-Expression-Recognition) |[Alexa Skills](https://github.com/tooth2/Alexa-Skill)|
 |[**Perception** Vehicle **Detection** (YOLO)](https://github.com/tooth2/Vehicle_Detection)|[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection)|[Google Actions](https://github.com/tooth2/GoogleActions)|
 | [**Perception** Traffic Light Classification](https://github.com/tooth2/Traffic-Light-Classification)|[Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)|[RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)|
-| [ **SensorFusion** Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)|[Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning)|[NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)|
-| [ **SensorFusion** Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| [Restful WebService API](https://github.com/tooth2/BeaconLocationService)|
+| [ **SensorFusion** Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer) |[NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)|
+| [ **SensorFusion** Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)|[Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning)| [Restful WebService API](https://github.com/tooth2/BeaconLocationService)|
 | [ **Localization** Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)|[Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis) |[OpenXC API Integration](https://github.com/tooth2/TestOpenXC)|
-| [**Localization** Landmark Detection (SLAM)](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM) |[Text Generation](https://github.com/tooth2/TV-Script-Generation)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|
+| [**Localization** Landmark Detection (SLAM)](https://github.com/tooth2/Landmark-Detection-Tracking-SLAM) |[TV Script Generation](https://github.com/tooth2/TV-Script-Generation)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|
 |[**Localization** 2D Histogram Filter](https://github.com/tooth2/HistogramFilter)|[Planning - Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|
 |[ **Planning** Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification) |[Machine Learning on AWS SageMaker](https://github.com/tooth2/sagemaker-deployment)|
 |[ **Planning** Route Planning](https://github.com/tooth2/Path_Planning)|[Traffic Light Classification](https://github.com/tooth2/Traffic-Light-Classification)|[Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)|
@@ -57,16 +57,20 @@ Here are some ideas to get you started:
     * [Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)
     * [Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)
     * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) 
-    * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
+    * [TV Script Generation](https://github.com/tooth2/TV-Script-Generation)
     * [Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)
     * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
     * [Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)
     * [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
     * [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
     * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
+    * [Handwritten Digits Generation(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/)
+    * [Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)
+    * [DCGAN Street Number recognition](https://github.com/tooth2/House-Number-Recognition)
+
 - Natural-Lanuage-Processing Project 
     * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
-    * [Text Generation](https://github.com/tooth2/TV-Script-Generation)
+    * [TV Script Generation](https://github.com/tooth2/TV-Script-Generation)
     * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
     * [Alexa Skill](https://github.com/tooth2/Alexa-Skill)
     * [Google Actions](https://github.com/tooth2/GoogleActions)
