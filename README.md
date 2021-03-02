@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 |[ **Perception** 2D Camera Vehicle Tracking](https://github.com/tooth2/2D-Collision-Prevention)|[SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)|[Kalman-Filter](https://github.com/tooth2/Kalman-Filter)|
 |[ **SensorFusion** 3D Camera/Lidar Obstacle **Detection**](https://github.com/tooth2/3D-Sensor-Fusion)|[3D YOLO/DNN Object Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[Vehicle Model-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
 |[**SensorFusion** Lidar Obstacle **Detection**](https://github.com/tooth2/Lidar-Obstacle-Detection)|[Handwritten Digits Generation(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/) |[OpenCV/2DFeatures Tutorial](https://github.com/tooth2/OpenCV-Object-Detection)|
-|[SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)|[House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
-|Scene Understanding |[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)|[Robot-ROS Basic](https://github.com/tooth2/ROS_Basic)|
+|[**Perception** SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)|[House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
+|**Perception** Scene Understanding |[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)|[Robot-ROS Basic](https://github.com/tooth2/ROS_Basic)|
 <!--[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)-->
 
 ## Autonomous Vehicle 
