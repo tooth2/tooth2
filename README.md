@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 |[**Localization** 2D Histogram Filter](https://github.com/tooth2/HistogramFilter)|[Planning - Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|
 |[ **Planning** Driving Behavior Cloning](https://github.com/tooth2/Autonomous_Driving)|[Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification) |[Machine Learning on AWS SageMaker](https://github.com/tooth2/sagemaker-deployment)|
 |[ **Planning** Route Planning](https://github.com/tooth2/Path_Planning)|[Traffic Light Classification](https://github.com/tooth2/Traffic-Light-Classification)|[Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)|
-|[ **Control** PID Controller](https://github.com/tooth2/PID_Controller)|[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)|[Vehicle Motion and Control Modeling](https://github.com/tooth2/VehicleModel)|
-|[ **SensorFusion** 2D Lidar/Camera Vehicle Detection](https://github.com/tooth2/2D-Sensor-Fusion)|[3D YOLO/DNN Object Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[1D Localization](https://github.com/tooth2/1D-Localization)|
-|[ **Perception** 2D Camera Vehicle Tracking](https://github.com/tooth2/2D-Collision-Prevention)|[YOLOv3 Object Detection I](https://github.com/tooth2/YOLOv3-Pytorch)|[Kalman-Filter](https://github.com/tooth2/Kalman-Filter)|
-|[ **SensorFusion** 3D Camera/Lidar Obstacle **Detection**](https://github.com/tooth2/3D-Sensor-Fusion)|[YOLOv3 Object Detection II](https://github.com/tooth2/YOLOv3-Object-Detection)|[Vehicle Model-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
+|[ **Control** PID Controller](https://github.com/tooth2/PID_Controller)|[YOLOv3 Object Detection I](https://github.com/tooth2/YOLOv3-Pytorch)|[Vehicle Motion and Control Modeling](https://github.com/tooth2/VehicleModel)|
+|[ **SensorFusion** 2D Lidar/Camera Vehicle Detection](https://github.com/tooth2/2D-Sensor-Fusion)|[YOLOv3 Object Detection II](https://github.com/tooth2/YOLOv3-Object-Detection)|[1D Localization](https://github.com/tooth2/1D-Localization)|
+|[ **Perception** 2D Camera Vehicle Tracking](https://github.com/tooth2/2D-Collision-Prevention)|[SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)|[Kalman-Filter](https://github.com/tooth2/Kalman-Filter)|
+|[ **SensorFusion** 3D Camera/Lidar Obstacle **Detection**](https://github.com/tooth2/3D-Sensor-Fusion)|[3D YOLO/DNN Object Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[Vehicle Model-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
 |[**SensorFusion** Lidar Obstacle **Detection**](https://github.com/tooth2/Lidar-Obstacle-Detection)|[Handwritten Digits Generation(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/) |[OpenCV/2DFeatures Tutorial](https://github.com/tooth2/OpenCV-Object-Detection)|
-|[Steert Number Detection](https://github.com/tooth2/House-Number-Recognition)|[House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
+|[SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)|[House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
 |Scene Understanding |[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)|[Robot-ROS Basic](https://github.com/tooth2/ROS_Basic)|
-
+<!--[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)-->
 
 ## Autonomous Vehicle 
 - Perception 
