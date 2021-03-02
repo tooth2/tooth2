@@ -44,6 +44,11 @@ Here are some ideas to get you started:
         - [Traffic Light Detection & Classification](https://github.com/tooth2/Traffic-Light-Classification)
         - [Traffic Sign Detection & Classification](https://github.com/tooth2/Traffic_Sign_Classification)
         - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
+            - [x] [YOLO Object Detection in tesnforflow](https://github.com/tooth2/YOLOv3-Object-Detection)
+            - [x] [YOLOv3 Object Detection in Pytorch](https://github.com/tooth2/YOLOv3-Pytorch)
+            - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
+            - [x] [SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)
+            - [ ] Semantic Segmentation      
     - Localization
         - [Lidar/GPS+MAP Localization](https://github.com/tooth2/Robot_Particle_Fillter)
 - Planning 
