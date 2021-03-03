@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 |[ **SensorFusion** 3D Camera/Lidar Obstacle **Detection**](https://github.com/tooth2/3D-Sensor-Fusion)|[3D YOLO/DNN Object Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[Vehicle Model-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
 |[**SensorFusion** Lidar Obstacle **Detection**](https://github.com/tooth2/Lidar-Obstacle-Detection)|[Handwritten Digits Generation(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/) |[OpenCV/2DFeatures Tutorial](https://github.com/tooth2/OpenCV-Object-Detection)|
 |[**Perception** SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)|[House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
-|**Perception** Scene Understanding |[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)|[Robot-ROS Basic](https://github.com/tooth2/ROS_Basic)|
+|[**Perception** Scene Understanding](https://github.com/tooth2/Semantic-Segmentation) |[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)|[Robot-ROS Basic](https://github.com/tooth2/ROS_Basic)|
 <!--[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)-->
 
 ## Autonomous Vehicle 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
             - [x] [YOLOv3 Object Detection in Pytorch](https://github.com/tooth2/YOLOv3-Pytorch)
             - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
             - [x] [SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)
-            - [ ] Semantic Segmentation      
+            - [x] [Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation)
     - Localization
         - [Lidar/GPS+MAP Localization](https://github.com/tooth2/Robot_Particle_Fillter)
 - Planning 
@@ -59,19 +59,11 @@ Here are some ideas to get you started:
 
 ## Deep Learning/AI 
 - Deep-Learning Project
-    * [Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)
-    * [Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)
     * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) 
-    * [TV Script Generation](https://github.com/tooth2/TV-Script-Generation)
-    * [Generating Faces](https://github.com/tooth2/Celeb-Face-Generation)
-    * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
-    * [Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)
-    * [Traffic Sign Classification](https://github.com/tooth2/Traffic_Sign_Classification)
+    * [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)
+    * [Traffic Light Classification](https://github.com/tooth2/Traffic-Light-Classification)
     * [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
-    * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
-    * [Handwritten Digits Generation(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/)
-    * [Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)
-    * [DCGAN Street Number recognition](https://github.com/tooth2/House-Number-Recognition)
+    * [SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)
 
 - Natural-Lanuage-Processing Project 
     * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
