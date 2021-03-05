@@ -72,11 +72,11 @@
     * [Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)
     * [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
     * [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
-            - [x] [YOLO Object Detection in tesnforflow](https://github.com/tooth2/YOLOv3-Object-Detection)
-            - [x] [YOLOv3 Object Detection in Pytorch](https://github.com/tooth2/YOLOv3-Pytorch)
-            - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
-            - [x] [SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)
-            - [x] [Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation)
+        - [x] [YOLO Object Detection in tesnforflow](https://github.com/tooth2/YOLOv3-Object-Detection)
+        - [x] [YOLOv3 Object Detection in Pytorch](https://github.com/tooth2/YOLOv3-Pytorch)
+        - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
+        - [x] [SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)
+        - [x] [Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation)
 
 - Natural-Lanuage-Processing Project 
     * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
@@ -89,5 +89,5 @@
 ## Teaching Course Examples 
 | Mobile App Development | WebService/REST API| DataBase/ETL | IoT | ROS/Vehicle | 
 |--- | --| --|--| --| 
-|[iOS App](https://github.com/tooth2/iDrift_iOS),  [Android App](https://github.com/tooth2/iDrift_Android) |[Beacon Web Service](https://github.com/tooth2/BeaconLocationService), [OpenXC API](https://github.com/tooth2/TestOpenXC) |[RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL), [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL) | [Alexa Skills](https://github.com/tooth2/Alexa-Skill), [Google Actions](https://github.com/tooth2/GoogleActions)|[Robot- ROS](https://github.com/tooth2/ROS_Basic), [VehicleModel-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
+|[iOS](https://github.com/tooth2/iDrift_iOS), [Android](https://github.com/tooth2/iDrift_Android) |[Beacon WebService](https://github.com/tooth2/BeaconLocationService), [OpenXC API](https://github.com/tooth2/TestOpenXC) |[RDBMS/ETL](https://github.com/tooth2/DM-RDBMS-ETL), [NoSQL/ETL](https://github.com/tooth2/DM-NoSQL-ETL) | [Alexa Skills](https://github.com/tooth2/Alexa-Skill), [Google Actions](https://github.com/tooth2/GoogleActions)|[Robot/ROS](https://github.com/tooth2/ROS_Basic), [VehicleModel/MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
 
