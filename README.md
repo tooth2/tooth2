@@ -2,18 +2,15 @@
 
 <!--
 **tooth2/tooth2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Computer Vision, Natural Language Processing, and Deep learning (CNN, Le-Net5, VGG16/VGG19, NVIDIA archiecture, CNN with RNN, RNN/LSTM, GAN, DCGAN etc) Python, C++, and JAVA.
-- 🌱 I’m currently learning Autonomous car driving - Lidar sensor fusion, Trajectory using Point cloud, Localization, Path planning and so on
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+* 🔭 I’m currently working on Computer Vision, Natural Language Processing, and Deep learning (CNN, Le-Net5, VGG16/VGG19, NVIDIA archiecture, CNN with RNN, RNN/LSTM, GAN, DCGAN etc) Python, C++, and JAVA.
+* 🌱 I’m currently learning Autonomous car driving - Lidar sensor fusion, Trajectory using Point cloud, Localization, Path planning and so on
+* 👯 I’m looking to collaborate on ...
 -->
-🔭 I have worked on Computer Vision, Deep learning and Natural Language Processing application development with Python, C++, and JAVA. 
-🌱 I’m currently working on Autonomous car driving - Vehicle/road lane detection, Lidar/Radar sensor fusion, Localization , Path planning and control so on.
 
+🔭 I have worked on Computer Vision, Deep learning and Natural Language Processing application development with Python, C++, and JAVA. 
+🌱 I’m currently working on Autonomous car driving; Vehicle/road lane detection, Lidar/Radar sensor fusion, Localization , Path planning and control so on.
+
+<!--
 |Autonomous Vehicle Projects |CV/NLP/DeepLearning Projects|Teaching Course Examples|
 |---| ---| -- |
 |[**Perception** Lane **Detection** ](https://github.com/tooth2/Lane_Line_Detection)|[Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)| [iOS App](https://github.com/tooth2/iDrift_iOS)|
@@ -33,11 +30,22 @@ Here are some ideas to get you started:
 |[ **Perception** 2D Camera Vehicle Tracking](https://github.com/tooth2/2D-Collision-Prevention)|[SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)|[Kalman-Filter](https://github.com/tooth2/Kalman-Filter)|
 |[ **SensorFusion** 3D Camera/Lidar Obstacle **Detection**](https://github.com/tooth2/3D-Sensor-Fusion)|[3D YOLO/DNN Object Detection](https://github.com/tooth2/3D-Sensor-Fusion)|[Vehicle Model-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
 |[**SensorFusion** Lidar Obstacle **Detection**](https://github.com/tooth2/Lidar-Obstacle-Detection)|[Handwritten Digits Generation(GAN-MNIST)](https://github.com/tooth2/Handwritten-digits-generation/) |[OpenCV/2DFeatures Tutorial](https://github.com/tooth2/OpenCV-Object-Detection)|
-|[**Perception** SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)|[House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
+|[**Perception** Multi Objects Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)|[House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[2D-CFAR Radar Targer Generation/Detection](https://github.com/tooth2/2D-CFAR)|
 |[**Perception** Scene Understanding](https://github.com/tooth2/Semantic-Segmentation) |[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)|[Robot-ROS Basic](https://github.com/tooth2/ROS_Basic)|
-<!--[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)-->
 
-## Autonomous Vehicle 
+[Vehicle Detection(YOLO)](https://github.com/tooth2/Vehicle_Detection)-->
+
+## Autonomous Vehicle Projects
+
+|Input | Projects | Related| 
+|--|--|--|
+|Camera Vision | [**Perception** Lane Detection](https://github.com/tooth2/Road_Lane_Detection) | [Prediction](https://github.com/tooth2/Unscented-Kalman-Filter) --> [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)--> [Trajectory Planning](https://github.com/tooth2/Path_Planning) | 
+|Camera Vision | [**Perception** Traffic Light Detection](https://github.com/tooth2/Traffic-Light-Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)--> [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)|
+|Camera Vision | [**Perception** Traffic Sign Detection](https://github.com/tooth2/Traffic_Sign_Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)-->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving), Prediction|
+|Camera Vision, Lidar, Radar |[**Perception** Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter), [Trajectory Planning](https://github.com/tooth2/Path_Planning)|
+|Lidar, GPS | [Lidar/GPS+MAP Localization](https://github.com/tooth2/Robot_Particle_Fillter) |[Route Planning](https://github.com/tooth2/Path_Planning), [Behavior Planning](https://github.com/tooth2/Autonomous_Driving) | 
+
+<!--
 - Perception 
     - Detection
         - [Road Lane Detection](https://github.com/tooth2/Road_Lane_Detection)
@@ -56,12 +64,12 @@ Here are some ideas to get you started:
     - [Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)
     - [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)
     - [Trajectory Planning](https://github.com/tooth2/Path_Planning)
-
+--> 
 ## Deep Learning/AI 
-- Deep-Learning Project
+- Computer Vision/Deep-Learning Project
     * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) 
     * [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)
-    * [Traffic Light Classification](https://github.com/tooth2/Traffic-Light-Classification)
+    * [Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)
     * [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
     * [SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)
 
