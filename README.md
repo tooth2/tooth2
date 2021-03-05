@@ -102,7 +102,7 @@
     * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
 -->
 ## Teaching Course Examples 
-| Mobile App Development | WebService/REST API| DataBase/ETL | IoT | ROS/Localization | 
+| Mobile App Development | WebService/ REST API| DataBase/ETL | IoT | ROS/Localization | 
 |--- | --| --|--| --| 
-|[iOS](https://github.com/tooth2/iDrift_iOS), [Android](https://github.com/tooth2/iDrift_Android) |[Beacon WebService](https://github.com/tooth2/BeaconLocationService), [OpenXC API](https://github.com/tooth2/TestOpenXC) |[RDBMS/ETL](https://github.com/tooth2/DM-RDBMS-ETL), [NoSQL/ETL](https://github.com/tooth2/DM-NoSQL-ETL) | [AlexaSkills](https://github.com/tooth2/Alexa-Skill), [GoogleActions](https://github.com/tooth2/GoogleActions)|[Robot/ROS](https://github.com/tooth2/ROS_Basic), [Localization](https://github.com/tooth2/1D-Localization),[VehicleModel/Trajectory](https://github.com/tooth2/VehicleModel)|
+|[iOS](https://github.com/tooth2/iDrift_iOS), [Android](https://github.com/tooth2/iDrift_Android) |[BLE WebService](https://github.com/tooth2/BeaconLocationService), [OpenXC API](https://github.com/tooth2/TestOpenXC) |[RDBMS/ETL](https://github.com/tooth2/DM-RDBMS-ETL), [NoSQL/ETL](https://github.com/tooth2/DM-NoSQL-ETL) | [AlexaSkills](https://github.com/tooth2/Alexa-Skill), [GoogleActions](https://github.com/tooth2/GoogleActions)|[Robot/ROS](https://github.com/tooth2/ROS_Basic), [Localization](https://github.com/tooth2/1D-Localization), [VehicleModel/Trajectory](https://github.com/tooth2/VehicleModel)|
 
