@@ -73,7 +73,8 @@
 |[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)| [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) |
 |[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|
 
-[Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
+
+- [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
     - [x] [YOLO Object Detection in tesnforflow](https://github.com/tooth2/YOLOv3-Object-Detection)
     - [x] [YOLOv3 Object Detection in Pytorch](https://github.com/tooth2/YOLOv3-Pytorch)
     - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
