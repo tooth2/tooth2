@@ -41,8 +41,8 @@
 |--|--|--|
 |Camera Vision | [**Perception** Lane Detection](https://github.com/tooth2/Road_Lane_Detection) | [Prediction](https://github.com/tooth2/Unscented-Kalman-Filter) --> [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)--> [Trajectory Planning](https://github.com/tooth2/Path_Planning) | 
 |Camera Vision | [**Perception** Traffic Light Detection](https://github.com/tooth2/Traffic-Light-Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)--> [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)|
-|Camera Vision | [**Perception** Traffic Sign Detection](https://github.com/tooth2/Traffic_Sign_Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)-->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving), Prediction|
-|Camera Vision, Lidar, Radar |[**Perception** Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter), [Trajectory Planning](https://github.com/tooth2/Path_Planning)|
+|Camera Vision | [**Perception** Traffic Sign Detection](https://github.com/tooth2/Traffic_Sign_Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)-->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving)|
+|Camera Vision, Lidar, [Radar](https://github.com/tooth2/2D-CFAR)|[**Perception** Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter), [Trajectory Planning](https://github.com/tooth2/Path_Planning)|
 |Lidar, GPS | [Lidar/GPS+MAP Localization](https://github.com/tooth2/Robot_Particle_Fillter) |[Route Planning](https://github.com/tooth2/Path_Planning), [Behavior Planning](https://github.com/tooth2/Autonomous_Driving) | 
 
 <!--
@@ -71,7 +71,12 @@
     * [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)
     * [Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)
     * [Autonous Driving by Learning Human Behavior](https://github.com/tooth2/Autonomous_Driving)
-    * [SSD:Object Detection/Tracking](https://github.com/tooth2/SSD-Object-Detection)
+    * [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
+            - [x] [YOLO Object Detection in tesnforflow](https://github.com/tooth2/YOLOv3-Object-Detection)
+            - [x] [YOLOv3 Object Detection in Pytorch](https://github.com/tooth2/YOLOv3-Pytorch)
+            - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
+            - [x] [SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)
+            - [x] [Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation)
 
 - Natural-Lanuage-Processing Project 
     * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
@@ -79,17 +84,10 @@
     * [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) 
     * [Alexa Skill](https://github.com/tooth2/Alexa-Skill)
     * [Google Actions](https://github.com/tooth2/GoogleActions)
+    * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
 
 ## Teaching Course Examples 
-* Mobile App Development 
-    * iOS
-        * [iOS iDrift App](https://github.com/tooth2/iDrift_iOS)
-    * Android
-        * [Vehicle Dashboard](https://github.com/tooth2/VehicleDashboard)
-        * [Android iDrift App](https://github.com/tooth2/iDrift_Android)
-        * [OpenXC Integration](https://github.com/tooth2/TestOpenXC)
-        * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
-* WebService/IoT: [Beacon Location Service](https://github.com/tooth2/BeaconLocationService) 
-* RDBMS: [RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL)
-* NoSQL: [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL)
+| Mobile App Development | WebService/REST API| DataBase/ETL | IoT | ROS/Vehicle | 
+|--- | --| --|--| --| 
+|[iOS App](https://github.com/tooth2/iDrift_iOS),  [Android App](https://github.com/tooth2/iDrift_Android) |[Beacon Web Service](https://github.com/tooth2/BeaconLocationService), [OpenXC API](https://github.com/tooth2/TestOpenXC) |[RDBMS-ETL](https://github.com/tooth2/DM-RDBMS-ETL), [NoSQL-ETL](https://github.com/tooth2/DM-NoSQL-ETL) | [Alexa Skills](https://github.com/tooth2/Alexa-Skill), [Google Actions](https://github.com/tooth2/GoogleActions)|[Robot- ROS](https://github.com/tooth2/ROS_Basic), [VehicleModel-MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
 
