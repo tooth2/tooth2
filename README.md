@@ -66,6 +66,20 @@
     - [Trajectory Planning](https://github.com/tooth2/Path_Planning)
 --> 
 ## Deep Learning/AI 
+| Computer Vision/DeepLearning |Natural-Lanuage-Processing/Deep Learning|
+|--|--|
+|[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |[Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)|
+|[Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)|  [TV Script Generation](https://github.com/tooth2/TV-Script-Generation)|
+|[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)| [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) |
+|[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|
+|[Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
+    - [x] [YOLO Object Detection in tesnforflow](https://github.com/tooth2/YOLOv3-Object-Detection)
+    - [x] [YOLOv3 Object Detection in Pytorch](https://github.com/tooth2/YOLOv3-Pytorch)
+    - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
+    - [x] [SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)
+    - [x] [Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation) | TBD|
+
+<!--
 - Computer Vision/Deep-Learning Project
     * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) 
     * [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)
@@ -77,7 +91,6 @@
         - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
         - [x] [SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)
         - [x] [Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation)
-
 - Natural-Lanuage-Processing Project 
     * [Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)
     * [TV Script Generation](https://github.com/tooth2/TV-Script-Generation)
@@ -85,9 +98,9 @@
     * [Alexa Skill](https://github.com/tooth2/Alexa-Skill)
     * [Google Actions](https://github.com/tooth2/GoogleActions)
     * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
-
+-->
 ## Teaching Course Examples 
 | Mobile App Development | WebService/REST API| DataBase/ETL | IoT | ROS/Vehicle | 
 |--- | --| --|--| --| 
-|[iOS](https://github.com/tooth2/iDrift_iOS), [Android](https://github.com/tooth2/iDrift_Android) |[Beacon WebService](https://github.com/tooth2/BeaconLocationService), [OpenXC API](https://github.com/tooth2/TestOpenXC) |[RDBMS/ETL](https://github.com/tooth2/DM-RDBMS-ETL), [NoSQL/ETL](https://github.com/tooth2/DM-NoSQL-ETL) | [Alexa Skills](https://github.com/tooth2/Alexa-Skill), [Google Actions](https://github.com/tooth2/GoogleActions)|[Robot/ROS](https://github.com/tooth2/ROS_Basic), [VehicleModel/MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
+|[iOS](https://github.com/tooth2/iDrift_iOS), [Android](https://github.com/tooth2/iDrift_Android) |[Beacon WebService](https://github.com/tooth2/BeaconLocationService), [OpenXC API](https://github.com/tooth2/TestOpenXC) |[RDBMS/ETL](https://github.com/tooth2/DM-RDBMS-ETL), [NoSQL/ETL](https://github.com/tooth2/DM-NoSQL-ETL) | [AlexaSkills](https://github.com/tooth2/Alexa-Skill), [GoogleActions](https://github.com/tooth2/GoogleActions)|[Robot/ROS](https://github.com/tooth2/ROS_Basic), [VehicleModel/MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
 
