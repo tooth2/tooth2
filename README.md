@@ -1,4 +1,4 @@
-### Hello, World
+### Saeyoung Jeong
 
 <!--
 **tooth2/tooth2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,7 +43,7 @@
 |Camera Vision | [**Perception** Traffic Light Detection](https://github.com/tooth2/Traffic-Light-Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)--> [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)|
 |Camera Vision | [**Perception** Traffic Sign Detection](https://github.com/tooth2/Traffic_Sign_Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)-->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving)|
 |Camera Vision, Lidar, [Radar](https://github.com/tooth2/2D-CFAR)|[**Perception** Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter), [Trajectory Planning](https://github.com/tooth2/Path_Planning)|
-|Lidar, GPS | [Lidar/GPS+MAP Localization](https://github.com/tooth2/Robot_Particle_Fillter) |[Route Planning](https://github.com/tooth2/Path_Planning), [Behavior Planning](https://github.com/tooth2/Autonomous_Driving) | 
+|Lidar, GPS/Map | [Localization](https://github.com/tooth2/Robot_Particle_Fillter) |[Route Planning](https://github.com/tooth2/Path_Planning), [Behavior Planning](https://github.com/tooth2/Autonomous_Driving) | 
 
 <!--
 - Perception 
@@ -72,12 +72,13 @@
 |[Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)|  [TV Script Generation](https://github.com/tooth2/TV-Script-Generation)|
 |[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)| [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) |
 |[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|
-|[Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
+
+[Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
     - [x] [YOLO Object Detection in tesnforflow](https://github.com/tooth2/YOLOv3-Object-Detection)
     - [x] [YOLOv3 Object Detection in Pytorch](https://github.com/tooth2/YOLOv3-Pytorch)
     - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
     - [x] [SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)
-    - [x] [Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation) | TBD|
+    - [x] [Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation)
 
 <!--
 - Computer Vision/Deep-Learning Project
@@ -102,5 +103,5 @@
 ## Teaching Course Examples 
 | Mobile App Development | WebService/REST API| DataBase/ETL | IoT | ROS/Vehicle | 
 |--- | --| --|--| --| 
-|[iOS](https://github.com/tooth2/iDrift_iOS), [Android](https://github.com/tooth2/iDrift_Android) |[Beacon WebService](https://github.com/tooth2/BeaconLocationService), [OpenXC API](https://github.com/tooth2/TestOpenXC) |[RDBMS/ETL](https://github.com/tooth2/DM-RDBMS-ETL), [NoSQL/ETL](https://github.com/tooth2/DM-NoSQL-ETL) | [AlexaSkills](https://github.com/tooth2/Alexa-Skill), [GoogleActions](https://github.com/tooth2/GoogleActions)|[Robot/ROS](https://github.com/tooth2/ROS_Basic), [VehicleModel/MPC](https://github.com/tooth2/Vehicle-Model-MPC)|
+|[iOS](https://github.com/tooth2/iDrift_iOS), [Android](https://github.com/tooth2/iDrift_Android) |[Beacon WebService](https://github.com/tooth2/BeaconLocationService), [OpenXC API](https://github.com/tooth2/TestOpenXC) |[RDBMS/ETL](https://github.com/tooth2/DM-RDBMS-ETL), [NoSQL/ETL](https://github.com/tooth2/DM-NoSQL-ETL) | [AlexaSkills](https://github.com/tooth2/Alexa-Skill), [GoogleActions](https://github.com/tooth2/GoogleActions)|[Robot/ROS](https://github.com/tooth2/ROS_Basic), [VehicleModel/Trajectory](https://github.com/tooth2/VehicleModel)|
 
