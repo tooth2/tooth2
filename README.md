@@ -66,12 +66,13 @@
     - [Trajectory Planning](https://github.com/tooth2/Path_Planning)
 --> 
 ## Deep Learning/AI 
-| Computer Vision/DeepLearning |Natural-Lanuage-Processing/Deep Learning|
-|--|--|
-|[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |[Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)|
-|[Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)|  [TV Script Generation](https://github.com/tooth2/TV-Script-Generation)|
-|[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)| [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) |
-|[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|
+| Computer Vision/DeepLearning |CV+NLP|Natural-Lanuage-Processing|
+|--|--|--|
+|[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |[Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)|[Spam Detector](https://github.com/tooth2/nlp-spam-detector)|
+|[Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)|[TV Script Generation](https://github.com/tooth2/TV-Script-Generation)|[Part-of-Speech Tagger](https://github.com/tooth2/PartofSpeechTagging)|
+|[Image-To-Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)| [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) |[Machine Translation](https://github.com/tooth2/Machine-Translation)|
+|[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|[Speech Recognizer](https://github.com/tooth2/Speech-Recognizer)|
+
 
 
 - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
