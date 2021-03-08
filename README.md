@@ -66,7 +66,7 @@
     - [Trajectory Planning](https://github.com/tooth2/Path_Planning)
 --> 
 ## Deep Learning/AI 
-| Computer Vision/DeepLearning |CV+NLP|Natural-Lanuage-Processing|
+|Computer Vision/DeepLearning |CV+NLP|Natural-Language-Processing|
 |--|--|--|
 |[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |[Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)|[Spam Detector](https://github.com/tooth2/nlp-spam-detector)|
 |[Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)|[TV Script Generation](https://github.com/tooth2/TV-Script-Generation)|[Part-of-Speech Tagger](https://github.com/tooth2/PartofSpeechTagging)|
