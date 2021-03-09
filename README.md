@@ -74,15 +74,13 @@
 |[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|[Speech Recognizer](https://github.com/tooth2/Speech-Recognizer)|
 
 
-
+<!--
 - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
     - [x] [YOLO Object Detection in tesnforflow](https://github.com/tooth2/YOLOv3-Object-Detection)
     - [x] [YOLOv3 Object Detection in Pytorch](https://github.com/tooth2/YOLOv3-Pytorch)
     - [x] [YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection)
     - [x] [SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)
     - [x] [Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation)
-
-<!--
 - Computer Vision/Deep-Learning Project
     * [Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) 
     * [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)
