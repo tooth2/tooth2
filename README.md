@@ -68,8 +68,8 @@
 ## Machine Learning/Deep Learning/AI 
 |Computer Vision/DeepLearning |  CV+Natural-Language-Processing |NLP/Machine Learning|
 |--|--|--|
-|[Facial Expression Recognition(CNN)](https://github.com/tooth2/Facial-Expression-Recognition)|[Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction)|[Sentiment Analysis(RNN)](https://github.com/tooth2/Sentiment-Analysis) |
-[Facial Keypoints Detection(OpenCV/CNN)](https://github.com/tooth2/Facial-KeyPoints-Detection) |[Dog Breed Identification(CNN)](https://github.com/tooth2/Dog-Breed-Identification) |[Spam Detector(NLTK,Bayesian)](https://github.com/tooth2/nlp-spam-detector)|
+|[Facial Expression Recognition(CNN)](https://github.com/tooth2/Facial-Expression-Recognition)|[Bike-sharing prediction(Basic NN)](https://github.com/tooth2/Bike-Sharing-Prediction)|[Sentiment Analysis(RNN)](https://github.com/tooth2/Sentiment-Analysis) |
+[Facial Keypoints Detection(OpenCV/CNN)](https://github.com/tooth2/Facial-KeyPoints-Detection) |[Dog Breed Identification(CNN)](https://github.com/tooth2/Dog-Breed-Identification) |[Spam Detector(Naive Bayesian)](https://github.com/tooth2/nlp-spam-detector)|
 |[Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)|[Handwritten Digits Generation(GAN)](https://github.com/tooth2/Handwritten-digits-generation/)|[Part-of-Speech Tagger(HMM)](https://github.com/tooth2/PartofSpeechTagging)|
 |[Image2Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)| [Image Captioning(CNN/RNN/LSTM)](https://github.com/tooth2/Automatic-Image-Captioning) |[TV Script Generation(RNN/LSTM)](https://github.com/tooth2/TV-Script-Generation) |
 |[Artistic Style Transfer(CNN)](https://github.com/tooth2/Artistic-Style-Transfer)|[House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[Machine Translation(RNN/LSTM)](https://github.com/tooth2/Machine-Translation) |
