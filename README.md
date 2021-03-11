@@ -42,7 +42,7 @@
 |Camera Vision | [**Perception** Lane Detection](https://github.com/tooth2/Road_Lane_Detection) | [Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving)->[Trajectory Planning](https://github.com/tooth2/Path_Planning) | 
 |Camera Vision | [**Perception** Traffic Light Detection](https://github.com/tooth2/Traffic-Light-Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving)|
 |Camera Vision | [**Perception** Traffic Sign Detection](https://github.com/tooth2/Traffic_Sign_Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving)|
-|Camera Vision, Lidar, [Radar](https://github.com/tooth2/2D-CFAR)|[**Perception** Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter), [Trajectory Planning](https://github.com/tooth2/Path_Planning)|
+|Camera Vision, Lidar, [Radar](https://github.com/tooth2/2D-CFAR)|**Perception** [Object Detection & Tracking:YOLO](https://github.com/tooth2/3D-Sensor-Fusion), [SSD](https://github.com/tooth2/SSD-Object-Detection), [Scene](https://github.com/tooth2/Semantic-Segmentation)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter), [Trajectory Planning](https://github.com/tooth2/Path_Planning)|
 |Lidar, GPS/Map | [Localization](https://github.com/tooth2/Robot_Particle_Fillter) |[Route Planning](https://github.com/tooth2/Path_Planning), [Behavior Planning](https://github.com/tooth2/Autonomous_Driving) | 
 
 <!--
