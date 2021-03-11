@@ -65,13 +65,16 @@
     - [Behavior Planning](https://github.com/tooth2/Autonomous_Driving)
     - [Trajectory Planning](https://github.com/tooth2/Path_Planning)
 --> 
-## Deep Learning/AI 
-|Computer Vision/DeepLearning |CV+NLP|Natural-Language-Processing|
+## Machine Learning/Deep Learning/AI 
+|Computer Vision/DeepLearning |  CV+Natural-Language-Processing |NLP/Machine Learning|
 |--|--|--|
-|[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |[Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)|[Spam Detector](https://github.com/tooth2/nlp-spam-detector)|
+|[Facial Expression Recognition](https://github.com/tooth2/Facial-Expression-Recognition)|[Dog Breed Identification](https://github.com/tooth2/Dog-Breed-Identification)|[Bike-sharing prediction](https://github.com/tooth2/Bike-Sharing-Prediction) |
+[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection) |[Sentiment Analysis](https://github.com/tooth2/Sentiment-Analysis)|[Spam Detector](https://github.com/tooth2/nlp-spam-detector)|
 |[Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)|[TV Script Generation](https://github.com/tooth2/TV-Script-Generation)|[Part-of-Speech Tagger](https://github.com/tooth2/PartofSpeechTagging)|
 |[Image2Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)| [Image Captioning](https://github.com/tooth2/Automatic-Image-Captioning) |[Machine Translation](https://github.com/tooth2/Machine-Translation)|
-|[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|[Speech Recognizer](https://github.com/tooth2/Speech-Recognizer)|
+|[Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)|[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|
+<!--[Speech Recognizer(private)](https://github.com/tooth2/Speech-Recognizer)|-->
+
 
 
 <!--
