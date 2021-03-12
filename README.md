@@ -68,12 +68,12 @@
 ## Machine Learning/Deep Learning/AI 
 |Computer Vision/DeepLearning |  CV+Natural-Language-Processing |NLP/Machine Learning|
 |--|--|--|
-|[Facial Expression Recognition(CNN)](https://github.com/tooth2/Facial-Expression-Recognition)|[Bike-sharing prediction(Basic NN)](https://github.com/tooth2/Bike-Sharing-Prediction)|[Sentiment Analysis(RNN)](https://github.com/tooth2/Sentiment-Analysis) |
-[Facial Keypoints Detection(OpenCV/CNN)](https://github.com/tooth2/Facial-KeyPoints-Detection) |[Dog Breed Identification(CNN)](https://github.com/tooth2/Dog-Breed-Identification) |[Spam Detector(Naive Bayesian)](https://github.com/tooth2/nlp-spam-detector)|
-|[Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation)|[Handwritten Digits Generation(GAN)](https://github.com/tooth2/Handwritten-digits-generation/)|[Part-of-Speech Tagger(HMM)](https://github.com/tooth2/PartofSpeechTagging)|
-|[Image2Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation)| [Image Captioning(CNN/RNN/LSTM)](https://github.com/tooth2/Automatic-Image-Captioning) |[TV Script Generation(RNN/LSTM)](https://github.com/tooth2/TV-Script-Generation) |
-|[Artistic Style Transfer(CNN)](https://github.com/tooth2/Artistic-Style-Transfer)|[House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[Machine Translation(RNN/LSTM)](https://github.com/tooth2/Machine-Translation) |
-[On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)|[On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)|[Speech Recognizer(private)](https://github.com/tooth2/Speech-Recognizer)|
+|[Facial Keypoints Detection(OpenCV/CNN)](https://github.com/tooth2/Facial-KeyPoints-Detection)|[Handwritten Digits Generation(GAN)](https://github.com/tooth2/Handwritten-digits-generation/) |[Sentiment Analysis(RNN)](https://github.com/tooth2/Sentiment-Analysis) |
+|[YOLOv3 Object Detection C++](https://github.com/tooth2/YOLOv3-Object-Detection) |[Image2Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation) |[Spam Detector(Naive Bayesian)](https://github.com/tooth2/nlp-spam-detector)|
+|[SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)| [House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[Part-of-Speech Tagger(HMM)](https://github.com/tooth2/PartofSpeechTagging)|
+|[Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation)| [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation) |[TV Script Generation(RNN/LSTM)](https://github.com/tooth2/TV-Script-Generation) |
+|[Artistic Style Transfer(CNN)](https://github.com/tooth2/Artistic-Style-Transfer)| [Image Captioning(CNN/RNN/LSTM)](https://github.com/tooth2/Automatic-Image-Captioning)|[Machine Translation(RNN/LSTM)](https://github.com/tooth2/Machine-Translation) |
+
 
 
 
@@ -102,6 +102,14 @@
     * [Alexa Skill](https://github.com/tooth2/Alexa-Skill)
     * [Google Actions](https://github.com/tooth2/GoogleActions)
     * [Sleep Daemon](https://github.com/tooth2/SleepDaemon)
+- Mixed
+    * [Bike-sharing prediction(Basic NN)](https://github.com/tooth2/Bike-Sharing-Prediction)
+    * [Dog Breed Identification(CNN)](https://github.com/tooth2/Dog-Breed-Identification) 
+    * [Facial Expression Recognition(CNN)](https://github.com/tooth2/Facial-Expression-Recognition)
+    * [On-Device AI/Computer Vision(private)](https://github.com/tooth2/OpenCV-Android)
+    * [On-Device AI/Speech Recognition(private)](https://github.com/tooth2/NLP-Android)
+    * [Speech Recognizer(private)](https://github.com/tooth2/Speech-Recognizer)
+    * 
 -->
 ## Teaching Course Examples 
 | Mobile App Development | WebService/ REST API| DataBase/ETL | IoT | ROS/Localization | 
