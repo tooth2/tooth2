@@ -42,8 +42,8 @@
 |Camera Vision | [**Perception** Lane Detection](https://github.com/tooth2/Road_Lane_Detection) | [Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving)->[Trajectory Planning](https://github.com/tooth2/Path_Planning) | 
 |Camera Vision | [**Perception** Traffic Light Detection](https://github.com/tooth2/Traffic-Light-Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving)|
 |Camera Vision | [**Perception** Traffic Sign Detection](https://github.com/tooth2/Traffic_Sign_Classification)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter)->[Behavior Planning](https://github.com/tooth2/Autonomous_Driving)|
-|Camera Vision, Lidar, [Radar](https://github.com/tooth2/2D-CFAR)|[**Perception** Object Detection & Tracking: Lidar/Yolo](https://github.com/tooth2/3D-Sensor-Fusion), [SSD](https://github.com/tooth2/SSD-Object-Detection), [Segmentation](https://github.com/tooth2/Semantic-Segmentation)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter), [Trajectory Planning](https://github.com/tooth2/Path_Planning)|
-|Lidar, GPS/Map | [Localization](https://github.com/tooth2/Robot_Particle_Fillter) |[Route Planning](https://github.com/tooth2/Path_Planning), [Behavior Planning](https://github.com/tooth2/Autonomous_Driving) | 
+|Camera Vision, [Lidar](https://github.com/tooth2/Lidar-Obstacle-Detection), [Radar](https://github.com/tooth2/2D-CFAR)|[**Perception** Object Detection & Tracking: Lidar/Yolo](https://github.com/tooth2/3D-Sensor-Fusion), [SSD](https://github.com/tooth2/SSD-Object-Detection), [Segmentation](https://github.com/tooth2/Semantic-Segmentation)|[Prediction](https://github.com/tooth2/Unscented-Kalman-Filter), [Trajectory Planning](https://github.com/tooth2/Path_Planning)|
+|[Lidar](https://github.com/tooth2/Lidar-Obstacle-Detection), GPS/Map | [Localization](https://github.com/tooth2/Robot_Particle_Fillter) |[Route Planning](https://github.com/tooth2/Path_Planning), [Behavior Planning](https://github.com/tooth2/Autonomous_Driving) | 
 
 <!--
 - Perception 
@@ -71,7 +71,7 @@
 |[Facial Keypoints Detection(OpenCV/CNN)](https://github.com/tooth2/Facial-KeyPoints-Detection)|[Handwritten Digits Generation(GAN)](https://github.com/tooth2/Handwritten-digits-generation/) |[Sentiment Analysis(RNN)](https://github.com/tooth2/Sentiment-Analysis) |
 |[YOLOv3 Object Detection](https://github.com/tooth2/YOLOv3-Pytorch) |[Image2Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation) |[Spam Detector(Naive Bayesian)](https://github.com/tooth2/nlp-spam-detector)|
 |[SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)| [House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[Part-of-Speech Tagger(HMM)](https://github.com/tooth2/PartofSpeechTagging)|
-|[Semantic Segmentation for Scene Understanding](https://github.com/tooth2/Semantic-Segmentation)| [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation) |[TV Script Generation(RNN/LSTM)](https://github.com/tooth2/TV-Script-Generation) |
+|[Semantic Image Segmentation](https://github.com/tooth2/Semantic-Segmentation)| [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation) |[TV Script Generation(RNN/LSTM)](https://github.com/tooth2/TV-Script-Generation) |
 |[Artistic Style Transfer(CNN)](https://github.com/tooth2/Artistic-Style-Transfer)| [Image Captioning(CNN/RNN/LSTM)](https://github.com/tooth2/Automatic-Image-Captioning)|[Machine Translation(RNN/LSTM)](https://github.com/tooth2/Machine-Translation) |
 
 
