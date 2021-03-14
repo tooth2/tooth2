@@ -72,13 +72,13 @@
     - [Trajectory Planning](https://github.com/tooth2/Path_Planning)
 --> 
 ## Machine Learning/Deep Learning/AI 
-|Computer Vision/DeepLearning |  CV+Natural-Language-Processing |NLP/DeepLearning|
+|Computer Vision/DeepLearning(CNN) |  CV+DL+Natural-Language-Processing |NLP/DeepLearning|
 |--|--|--|
-|[Facial Keypoints Detection(OpenCV/CNN)](https://github.com/tooth2/Facial-KeyPoints-Detection)|[Handwritten Digits Generation(GAN)](https://github.com/tooth2/Handwritten-digits-generation/) |[Sentiment Analysis(RNN)](https://github.com/tooth2/Sentiment-Analysis) |
+|[Facial Keypoints Detection](https://github.com/tooth2/Facial-KeyPoints-Detection)|[Handwritten Digits Generation(GAN)](https://github.com/tooth2/Handwritten-digits-generation/) |[Sentiment Analysis(RNN)](https://github.com/tooth2/Sentiment-Analysis) |
 |[YOLOv3 Object Detection](https://github.com/tooth2/YOLOv3-Pytorch) |[Image2Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation) |[Spam Detector(Naive Bayesian)](https://github.com/tooth2/nlp-spam-detector)|
 |[SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)| [House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[Part-of-Speech Tagger(HMM)](https://github.com/tooth2/PartofSpeechTagging)|
 |[Semantic Image Segmentation](https://github.com/tooth2/Semantic-Segmentation)| [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation) |[TV Script Generation(RNN/LSTM)](https://github.com/tooth2/TV-Script-Generation) |
-|[Artistic Style Transfer(CNN)](https://github.com/tooth2/Artistic-Style-Transfer)| [Image Captioning(CNN/RNN/LSTM)](https://github.com/tooth2/Automatic-Image-Captioning)|[Machine Translation(RNN/LSTM)](https://github.com/tooth2/Machine-Translation) |
+|[Artistic Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| [Image Captioning(CNN/RNN/LSTM)](https://github.com/tooth2/Automatic-Image-Captioning)|[Machine Translation(RNN/LSTM)](https://github.com/tooth2/Machine-Translation) |
 
 
 
