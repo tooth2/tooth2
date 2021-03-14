@@ -79,7 +79,7 @@
 |[SSD(Single shot detection)](https://github.com/tooth2/SSD-Object-Detection)| [House Number Recognition(DCGAN)](https://github.com/tooth2/House-Number-Recognition) |[Part-of-Speech Tagger(HMM)](https://github.com/tooth2/PartofSpeechTagging)|
 |[Semantic Image Segmentation](https://github.com/tooth2/Semantic-Segmentation)| [Generating Faces(DCGAN)](https://github.com/tooth2/Celeb-Face-Generation) |[TV Script Generation(RNN/LSTM)](https://github.com/tooth2/TV-Script-Generation) |
 |[Artistic Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| [Image Captioning(CNN/RNN/LSTM)](https://github.com/tooth2/Automatic-Image-Captioning)|[Machine Translation(RNN/LSTM)](https://github.com/tooth2/Machine-Translation) |
-|[On-Device AI/CV(private)](https://github.com/tooth2/OpenCV-Android)|[Automatic Speech Recognition(private)](https://github.com/tooth2/Speech-Recognizer)|[On-Device AI/NLP(private)](https://github.com/tooth2/NLP-Android)|
+|[On-Device AI/CV(private)](https://github.com/tooth2/OpenCV-Android)|[Automatic Speech Recognition (private)](https://github.com/tooth2/Automatic-Speech-Recognizer)|[On-Device AI/NLP(private)](https://github.com/tooth2/NLP-Android)|
 
 <!--
 - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
