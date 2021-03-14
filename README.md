@@ -72,7 +72,7 @@
     - [Trajectory Planning](https://github.com/tooth2/Path_Planning)
 --> 
 ## Machine Learning/Deep Learning/AI 
-|Computer Vision/DeepLearning |  CV+NLP+DeepLearning |Natural-Language-Processing/DeepLearning|
+|Computer Vision/DeepLearning |  CV+Natural-Language-Processing |NLP/DeepLearning|
 |--|--|--|
 |[Facial Keypoints Detection(OpenCV/CNN)](https://github.com/tooth2/Facial-KeyPoints-Detection)|[Handwritten Digits Generation(GAN)](https://github.com/tooth2/Handwritten-digits-generation/) |[Sentiment Analysis(RNN)](https://github.com/tooth2/Sentiment-Analysis) |
 |[YOLOv3 Object Detection](https://github.com/tooth2/YOLOv3-Pytorch) |[Image2Image Translation(CycleGAN)](https://github.com/tooth2/Image2Image-Translation) |[Spam Detector(Naive Bayesian)](https://github.com/tooth2/nlp-spam-detector)|
