@@ -81,6 +81,11 @@
 |[Artistic Style Transfer](https://github.com/tooth2/Artistic-Style-Transfer)| [Image Captioning(CNN/RNN/LSTM)](https://github.com/tooth2/Automatic-Image-Captioning)|[Machine Translation(RNN/LSTM)](https://github.com/tooth2/Machine-Translation) |
 |[On-Device AI/CV(private)](https://github.com/tooth2/OpenCV-Android)|[Automatic Speech Recognition (private)](https://github.com/tooth2/Automatic-Speech-Recognizer)|[On-Device AI/NLP(private)](https://github.com/tooth2/NLP-Android)|
 
+## Reinforcement Learning
+| Model-free Learning | Model-based learning | DRN (RN+NN) |
+|--|--|--|
+|[Monte-Carlo Methods](https://github.com/tooth2/MonteCarloMethods), [Temporal-Difference Learning](https://github.com/tooth2/TemporalDifference)| Value-Iteration, Policy-Iteration  |. |
+  
 <!--
 - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
     - [x] [YOLO Object Detection in tesnforflow](https://github.com/tooth2/Vehicle_Detection)
