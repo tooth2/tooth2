@@ -84,7 +84,7 @@
 ## Reinforcement Learning
 | Model-free Learning | Model-based learning | DRN (RN+NN) |
 |--|--|--|
-|[Monte-Carlo Methods](https://github.com/tooth2/MonteCarloMethods), [Temporal-Difference Learning](https://github.com/tooth2/TemporalDifference)| Value-Iteration, Policy-Iteration  |. |
+|[Monte-Carlo Methods](https://github.com/tooth2/MonteCarloMethods), [Temporal-Difference Learning](https://github.com/tooth2/TemporalDifference)| [Value-Iteration, Policy-Iteration](https://github.com/tooth2/DRN/tree/main/DynamicProgramming)  |Value-based Methods, Policy-Based Methods, Multi-Agent RL|
   
 <!--
 - [Object Detection & Tracking](https://github.com/tooth2/3D-Sensor-Fusion)
