@@ -9,9 +9,7 @@
 
 🔭 I have worked on Computer Vision, Deep learning and Natural Language Processing application development with Python, C++, and JAVA. 
 🌱 I’m currently working on Autonomous car driving; Vehicle/road lane detection, Lidar/Radar sensor fusion, Localization , Path planning and control so on.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tooth2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tooth2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 |Autonomous Vehicle Projects |CV/NLP/DeepLearning Projects|Teaching Course Examples|
 |---| ---| -- |
